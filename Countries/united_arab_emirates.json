@@ -1,0 +1,47 @@
+[
+    {
+        "city": "Sharjah",
+        "id": "7569",
+        "airport": "Sharjah International Airport",
+        "iata": "SHJ",
+        "country": "United Arab Emirates",
+        "countrycode": "AE",
+        "state": "",
+        "other1": "",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "Asia/Dubai"
+    },
+    {
+        "city": "Dubai",
+        "id": "7581",
+        "airport": "Dubai International Airport",
+        "iata": "DXB",
+        "country": "United Arab Emirates",
+        "countrycode": "AE",
+        "state": "",
+        "other1": "",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "most_searched",
+        "time_zone": "Asia/Dubai"
+    },
+    {
+        "city": "Abu Dhabi",
+        "id": "7591",
+        "airport": "Abu Dhabi International Airport",
+        "iata": "AUH",
+        "country": "United Arab Emirates",
+        "countrycode": "AE",
+        "state": "",
+        "other1": "",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "Asia/Dubai"
+    }
+]

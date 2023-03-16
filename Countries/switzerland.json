@@ -1,0 +1,17 @@
+[
+    {
+        "city": "Zurich",
+        "id": "7159",
+        "airport": "Zurich International Airport",
+        "iata": "ZRH",
+        "country": "Switzerland",
+        "countrycode": "CH",
+        "state": "",
+        "other1": "",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "Europe/Zurich"
+    }
+]

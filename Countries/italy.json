@@ -1,0 +1,17 @@
+[
+    {
+        "city": "Rome-Ciampino Airport",
+        "id": "4265",
+        "airport": "Ciampino",
+        "iata": "CIA",
+        "country": "Italy",
+        "countrycode": "IT",
+        "state": "",
+        "other1": "vatican city",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "Europe/Rome"
+    }
+]

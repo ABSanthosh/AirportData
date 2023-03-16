@@ -1,0 +1,32 @@
+[
+    {
+        "city": "Scarborough",
+        "id": "7361",
+        "airport": "Crown Point",
+        "iata": "TAB",
+        "country": "Trinidad and Tobago",
+        "countrycode": "TT",
+        "state": "",
+        "other1": "West indies",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "America/Port_of_Spain"
+    },
+    {
+        "city": "Port of Spain-Heliport",
+        "id": "7363",
+        "airport": "Piarco",
+        "iata": "POS",
+        "country": "Trinidad and Tobago",
+        "countrycode": "TT",
+        "state": "",
+        "other1": "West indies",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "America/Port_of_Spain"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "city": "Varadero",
+        "id": "2637",
+        "airport": "Juan Gualberto Gomez Intl",
+        "iata": "VRA",
+        "country": "Cuba",
+        "countrycode": "CU",
+        "state": "",
+        "other1": "West indies",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "America/Havana"
+    },
+    {
+        "city": "Havana",
+        "id": "2657",
+        "airport": "Havana",
+        "iata": "HAV",
+        "country": "Cuba",
+        "countrycode": "CU",
+        "state": "",
+        "other1": "West indies",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "America/Havana"
+    }
+]

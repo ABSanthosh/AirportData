@@ -1,0 +1,17 @@
+[
+    {
+        "city": "Helsinki",
+        "id": "3013",
+        "airport": "Helsinki Airport",
+        "iata": "HEL",
+        "country": "Finland",
+        "countrycode": "FI",
+        "state": "",
+        "other1": "",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "Europe/Helsinki"
+    }
+]

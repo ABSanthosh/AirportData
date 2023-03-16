@@ -1,0 +1,47 @@
+[
+    {
+        "city": "Addis Ababa",
+        "id": "2927",
+        "airport": "Addis Ababa Bole International Airport",
+        "iata": "ADD",
+        "country": "Ethiopia",
+        "countrycode": "ET",
+        "state": "",
+        "other1": "",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "Africa/Addis_Ababa"
+    },
+    {
+        "city": "Makale",
+        "id": "2879",
+        "airport": "Makale",
+        "iata": "MQX",
+        "country": "Ethiopia",
+        "countrycode": "ET",
+        "state": "",
+        "other1": "",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "Africa/Addis_Ababa"
+    },
+    {
+        "city": "Awasa",
+        "id": "2921",
+        "airport": "Awasa Airport",
+        "iata": "AWA",
+        "country": "Ethiopia",
+        "countrycode": "ET",
+        "state": "",
+        "other1": "",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "Africa/Addis_Ababa"
+    }
+]

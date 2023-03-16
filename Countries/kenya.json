@@ -1,0 +1,17 @@
+[
+    {
+        "city": "Nairobi",
+        "id": "4601",
+        "airport": "Jomo Kenyatta International Airport",
+        "iata": "NBO",
+        "country": "Kenya",
+        "countrycode": "KE",
+        "state": "",
+        "other1": "",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "Africa/Nairobi"
+    }
+]

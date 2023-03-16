@@ -1,0 +1,62 @@
+[
+    {
+        "city": "Simara",
+        "id": "5321",
+        "airport": "Simara",
+        "iata": "SIF",
+        "country": "Nepal",
+        "countrycode": "NP",
+        "state": "",
+        "other1": "birgunj",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "Asia/Katmandu"
+    },
+    {
+        "city": "Janakpur",
+        "id": "15917",
+        "airport": "Janakpur",
+        "iata": "JKR",
+        "country": "Nepal",
+        "countrycode": "NP",
+        "state": "",
+        "other1": "janakpur",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "Asia/Katmandu"
+    },
+    {
+        "city": "Kathmandu",
+        "id": "5345",
+        "airport": "Tribhuvan International Airport",
+        "iata": "KTM",
+        "country": "Nepal",
+        "countrycode": "NP",
+        "state": "",
+        "other1": "",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "most_searched",
+        "time_zone": "Asia/Katmandu"
+    },
+    {
+        "city": "Rajbiraj",
+        "id": "17863",
+        "airport": "Rajbiraj",
+        "iata": "RJB",
+        "country": "Nepal",
+        "countrycode": "NP",
+        "state": "",
+        "other1": "rajbiraj",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "Asia/Katmandu"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "city": "Oslo",
+        "id": "5623",
+        "airport": "Oslo Airport",
+        "iata": "OSL",
+        "country": "Norway",
+        "countrycode": "NO",
+        "state": "",
+        "other1": "",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "Europe/Oslo"
+    }
+]

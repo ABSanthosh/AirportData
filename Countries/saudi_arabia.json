@@ -1,0 +1,62 @@
+[
+    {
+        "city": "Qaisumah",
+        "id": "6543",
+        "airport": "Qaisumah",
+        "iata": "AQI",
+        "country": "Saudi Arabia",
+        "countrycode": "SA",
+        "state": "",
+        "other1": "",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "Asia/Riyadh"
+    },
+    {
+        "city": "Riyadh",
+        "id": "6539",
+        "airport": "King Khalid International Airport",
+        "iata": "RUH",
+        "country": "Saudi Arabia",
+        "countrycode": "SA",
+        "state": "",
+        "other1": "",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "Asia/Riyadh"
+    },
+    {
+        "city": "Yanbu",
+        "id": "6521",
+        "airport": "Yanbu",
+        "iata": "YNB",
+        "country": "Saudi Arabia",
+        "countrycode": "SA",
+        "state": "",
+        "other1": "",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "Asia/Riyadh"
+    },
+    {
+        "city": "Jeddah",
+        "id": "6553",
+        "airport": "King Abdulaziz International Airport",
+        "iata": "JED",
+        "country": "Saudi Arabia",
+        "countrycode": "SA",
+        "state": "",
+        "other1": "Mecca",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "Asia/Riyadh"
+    }
+]

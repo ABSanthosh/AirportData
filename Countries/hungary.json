@@ -1,0 +1,32 @@
+[
+    {
+        "city": "Budapest",
+        "id": "3895",
+        "airport": "Budapest Ferihegy International Airport",
+        "iata": "BUD",
+        "country": "Hungary",
+        "countrycode": "HU",
+        "state": "",
+        "other1": "",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "Europe/Budapest"
+    },
+    {
+        "city": "Debrecen",
+        "id": "3893",
+        "airport": "Debrecen",
+        "iata": "DEB",
+        "country": "Hungary",
+        "countrycode": "HU",
+        "state": "",
+        "other1": "",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "Europe/Budapest"
+    }
+]

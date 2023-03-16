@@ -1,0 +1,62 @@
+[
+    {
+        "city": "Orenburg",
+        "id": "6339",
+        "airport": "Orenburg",
+        "iata": "REN",
+        "country": "Russia",
+        "countrycode": "RU",
+        "state": "",
+        "other1": "",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "Asia/Yekaterinburg"
+    },
+    {
+        "city": "Ufa",
+        "id": "6273",
+        "airport": "Ufa",
+        "iata": "UFA",
+        "country": "Russia",
+        "countrycode": "RU",
+        "state": "",
+        "other1": "",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "Asia/Yekaterinburg"
+    },
+    {
+        "city": "Moscow",
+        "id": "6389",
+        "airport": "All Airports",
+        "iata": "MOW",
+        "country": "Russia",
+        "countrycode": "RU",
+        "state": "",
+        "other1": "",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "Europe/Moscow"
+    },
+    {
+        "city": "Moscow",
+        "id": "6387",
+        "airport": "Sheremetyevo International Airport",
+        "iata": "SVO",
+        "country": "Russia",
+        "countrycode": "RU",
+        "state": "",
+        "other1": "",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "Europe/Moscow"
+    }
+]

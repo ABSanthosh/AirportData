@@ -1,0 +1,32 @@
+[
+    {
+        "city": "Cairo",
+        "id": "2835",
+        "airport": "Cairo",
+        "iata": "CAI",
+        "country": "Egypt",
+        "countrycode": "EG",
+        "state": "",
+        "other1": "",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "Africa/Cairo"
+    },
+    {
+        "city": "Hurghada",
+        "id": "2829",
+        "airport": "Hurghada",
+        "iata": "HRG",
+        "country": "Egypt",
+        "countrycode": "EG",
+        "state": "",
+        "other1": "",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "Africa/Cairo"
+    }
+]

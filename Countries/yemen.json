@@ -1,0 +1,32 @@
+[
+    {
+        "city": "Aden",
+        "id": "8075",
+        "airport": "Aden",
+        "iata": "ADE",
+        "country": "Yemen",
+        "countrycode": "YE",
+        "state": "",
+        "other1": "",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "Asia/Aden"
+    },
+    {
+        "city": "Sanaa",
+        "id": "8063",
+        "airport": "Sanaa International",
+        "iata": "SAH",
+        "country": "Yemen",
+        "countrycode": "YE",
+        "state": "",
+        "other1": "",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "Asia/Aden"
+    }
+]

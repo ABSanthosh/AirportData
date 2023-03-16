@@ -1,0 +1,62 @@
+[
+    {
+        "city": "Wellington",
+        "id": "5433",
+        "airport": "Wellington",
+        "iata": "WLG",
+        "country": "New Zealand",
+        "countrycode": "NZ",
+        "state": "",
+        "other1": "",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "Pacific/Auckland"
+    },
+    {
+        "city": "Queenstown",
+        "id": "5451",
+        "airport": "Frankton",
+        "iata": "ZQN",
+        "country": "New Zealand",
+        "countrycode": "NZ",
+        "state": "",
+        "other1": "",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "Pacific/Auckland"
+    },
+    {
+        "city": "Christchurch",
+        "id": "5495",
+        "airport": "Christchurch",
+        "iata": "CHC",
+        "country": "New Zealand",
+        "countrycode": "NZ",
+        "state": "",
+        "other1": "",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "Pacific/Auckland"
+    },
+    {
+        "city": "Auckland",
+        "id": "5501",
+        "airport": "Auckland Airport",
+        "iata": "AKL",
+        "country": "New Zealand",
+        "countrycode": "NZ",
+        "state": "",
+        "other1": "",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "Pacific/Auckland"
+    }
+]

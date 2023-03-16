@@ -1,0 +1,47 @@
+[
+    {
+        "city": "Khasab",
+        "id": "5703",
+        "airport": "Khasab",
+        "iata": "KHS",
+        "country": "Oman",
+        "countrycode": "OM",
+        "state": "",
+        "other1": "",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "Asia/Muscat"
+    },
+    {
+        "city": "Salalah",
+        "id": "5697",
+        "airport": "Salalah",
+        "iata": "SLL",
+        "country": "Oman",
+        "countrycode": "OM",
+        "state": "",
+        "other1": "",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "Asia/Muscat"
+    },
+    {
+        "city": "Muscat",
+        "id": "5699",
+        "airport": "Muscat International Airport",
+        "iata": "MCT",
+        "country": "Oman",
+        "countrycode": "OM",
+        "state": "",
+        "other1": "",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "Asia/Muscat"
+    }
+]

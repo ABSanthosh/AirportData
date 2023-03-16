@@ -1,0 +1,62 @@
+[
+    {
+        "city": "Osaka",
+        "id": "4431",
+        "airport": "Kansai International",
+        "iata": "KIX",
+        "country": "Japan",
+        "countrycode": "JP",
+        "state": "",
+        "other1": "",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "Asia/Tokyo"
+    },
+    {
+        "city": "Tokyo",
+        "id": "4397",
+        "airport": "Narita Airport",
+        "iata": "NRT",
+        "country": "Japan",
+        "countrycode": "JP",
+        "state": "",
+        "other1": "",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "Asia/Tokyo"
+    },
+    {
+        "city": "Tokyo",
+        "id": "4399",
+        "airport": "All Airports",
+        "iata": "TYO",
+        "country": "Japan",
+        "countrycode": "JP",
+        "state": "",
+        "other1": "",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "Asia/Tokyo"
+    },
+    {
+        "city": "Fukuoka",
+        "id": "4525",
+        "airport": "Fukuoka",
+        "iata": "FUK",
+        "country": "Japan",
+        "countrycode": "JP",
+        "state": "",
+        "other1": "",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "Asia/Tokyo"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "city": "Cap-Haitien",
+        "id": "3863",
+        "airport": "Cap-Haitien",
+        "iata": "CAP",
+        "country": "Haiti",
+        "countrycode": "HT",
+        "state": "",
+        "other1": "",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "America/Port-au-Prince"
+    },
+    {
+        "city": "Port-au-prince",
+        "id": "3859",
+        "airport": "Toussaint Louverture Intl",
+        "iata": "PAP",
+        "country": "Haiti",
+        "countrycode": "HT",
+        "state": "",
+        "other1": "",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "America/Port-au-Prince"
+    }
+]

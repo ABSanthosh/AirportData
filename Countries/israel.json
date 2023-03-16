@@ -1,0 +1,17 @@
+[
+    {
+        "city": "Tel Aviv Yafo",
+        "id": "4227",
+        "airport": "Ben Gurion International Airport",
+        "iata": "TLV",
+        "country": "Israel",
+        "countrycode": "IL",
+        "state": "",
+        "other1": "Jerusalem",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "Asia/Jerusalem"
+    }
+]

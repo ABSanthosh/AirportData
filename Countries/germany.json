@@ -1,0 +1,17 @@
+[
+    {
+        "city": "Frankfurt",
+        "id": "3551",
+        "airport": "Frankfurt Airport",
+        "iata": "FRA",
+        "country": "Germany",
+        "countrycode": "DE",
+        "state": "",
+        "other1": "",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "Europe/Berlin"
+    }
+]

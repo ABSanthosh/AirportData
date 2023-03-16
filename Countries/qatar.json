@@ -1,0 +1,47 @@
+[
+    {
+        "city": "Doha",
+        "id": "6187",
+        "airport": "Doha Free Zone Airport",
+        "iata": "XOZ",
+        "country": "Qatar",
+        "countrycode": "QA",
+        "state": "",
+        "other1": "",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "Asia/Qatar"
+    },
+    {
+        "city": "Doha",
+        "id": "6183",
+        "airport": "Hamad International Airport",
+        "iata": "DOH",
+        "country": "Qatar",
+        "countrycode": "QA",
+        "state": "",
+        "other1": "",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "Asia/Qatar"
+    },
+    {
+        "city": "Doha",
+        "id": "6185",
+        "airport": "Al Udeid AB",
+        "iata": "IUD",
+        "country": "Qatar",
+        "countrycode": "QA",
+        "state": "",
+        "other1": "",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "Asia/Qatar"
+    }
+]

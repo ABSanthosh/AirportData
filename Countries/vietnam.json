@@ -1,0 +1,62 @@
+[
+    {
+        "city": "Ho Chi Minh City",
+        "id": "8029",
+        "airport": "Tan Son Nhat International Airport",
+        "iata": "SGN",
+        "country": "Vietnam",
+        "countrycode": "VN",
+        "state": "",
+        "other1": "",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "Asia/Saigon"
+    },
+    {
+        "city": "Phu Quoc",
+        "id": "8019",
+        "airport": "Duong Dang",
+        "iata": "PQC",
+        "country": "Vietnam",
+        "countrycode": "VN",
+        "state": "",
+        "other1": "",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "Asia/Saigon"
+    },
+    {
+        "city": "Dong Hoi",
+        "id": "8035",
+        "airport": "Dong Hoi",
+        "iata": "VDH",
+        "country": "Vietnam",
+        "countrycode": "VN",
+        "state": "",
+        "other1": "",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "Asia/Saigon"
+    },
+    {
+        "city": "Hanoi",
+        "id": "8031",
+        "airport": "Noibai",
+        "iata": "HAN",
+        "country": "Vietnam",
+        "countrycode": "VN",
+        "state": "",
+        "other1": "",
+        "other2": "",
+        "other3": "",
+        "other4": "",
+        "tag": "",
+        "time_zone": "Asia/Saigon"
+    }
+]
